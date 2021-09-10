@@ -1,10 +1,10 @@
 ---
-permalink: /中文简历/
-title: "中文简历"
+permalink: /ChineseCV/
+title: "ChineseCV"
 author_profile: true
 redirect_from: 
   - /md/
-  - /中文简历.html
+  - /ChineseCV.html
 ---
 
 ## Locations of key files/directories
