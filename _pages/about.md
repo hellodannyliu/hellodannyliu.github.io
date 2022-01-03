@@ -10,11 +10,28 @@ redirect_from:
 
 我是刘石奇，一个在计算机科学和心理学两座花园中穿梭漫步的年轻人。
 
-我的研究方向是计算机支持的元认知与情绪调节能力。
+我的研究方向是计算机支持的认知与情绪调节。
 
-计算机实现了自然语言的对话和状态追踪与建模，而心理学提供了对人的行为和心理的领域知识。
+计算机实现了自然语言对话和状态建模，而心理学提供了对人的行为和心理的领域知识。
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+## 联系方式
+
+### Goole scholar
+[Goole scholar](https://scholar.google.com/citations?user=SRVSMJAAAAAJ&hl=zh-CN)
+
+### Research gate
+
+[Research gate](https://www.researchgate.net/profile/Shiqi-Liu-27)
+
+
+### 微信公众号
+![理性与感性的花园 A garden of rationality and sensibility](/images/wechat_blog.jpg)
+
+
+### 音乐和一些有趣的东西
+
+[音乐和一些有趣的东西](http://mp.weixin.qq.com/s?__biz=MzI4NzQzNjQxNw==&mid=2247483804&idx=1&sn=31c58ddc3bf8bada7d42b3ede4e8f213&chksm=ebccfa72dcbb73647f67ca41d1aa794620955fbb2a7d789af62c4ec1f93d99d8245324f8386a#rd)
+
 
 A data-driven personal website
 ======
