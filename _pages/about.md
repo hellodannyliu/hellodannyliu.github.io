@@ -25,7 +25,7 @@ redirect_from:
 
 
 ### 微信公众号
-![理性与感性的花园 A garden of rationality and sensibility](/images/wechat_blog.jpg)
+![理性与感性的花园 A rational and emotional garden ](/images/wechat_blog.jpg)
 
 
 ### 音乐和一些有趣的东西
