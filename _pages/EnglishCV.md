@@ -7,6 +7,43 @@ redirect_from:
   - /EnglishCV.html
 ---
 
+[中文版](https://hellodannyliu.github.io/) | [English](https://hellodannyliu.github.io/EnglishCV/)
+
+## Personal Profile
+
+My name is **Shiqi Liu** and I am  pursuing my PhD in Educational Technology at the National Engineering Laboratory For Educationgal Big Data, Central China Normal University. Previously, I received my Master of Engineering degree in Educational Information Technology from the National Engineering Research Center for E-Learning, Central China Normal University.
+
+
+My research interests are the educational text data mining and the intelligent conversational agent. I have published papers in international journals and conferences, such as Computers & Education and CSEDU2020  .
+
+
+## Selected Papers
+[1] Sannyuya Liu,**Shiqi Liu**, Zhi Liu, Xian Peng, Zongkai Yang. (2022). Automated detection of emotional and cognitive engagement in MOOC discussions to predict learning achievement. *Computers & Education*, 181, 104461. (SCI&SSCI ,IF=8.358,JCR Q1) https://doi.org/10.1016/j.compedu.2022.104461 
+
+[2] 刘智, **刘石奇**, 李卿, 柴唤友, 康令云, & 刘三女牙. (2019). SPOC论坛中学习者兴趣主题建模及其与学习成效的关系研究. *电化教育研究*, 40(12), 87–96.(CSSCI，IF=6.428) https://doi.org/10.13811/j.cnki.eer.2019.12.012
+
+
+[3] Liu, Z., **Liu, S**., Zhang, C., Su, Z., Hu, T., & Liu, S. (2020). Investigating the Relationship between Learners’ Cognitive Participation and Learning Outcome in Asynchronous Online Discussion Forums: Proceedings of the 12th International Conference on Computer Supported Education, 26–33. （EI) https://doi.org/10/gg9mx3
+
+## Other sites
+
+### Github
+[Github](https://github.com/hellodannyliu)
+
+### Goole scholar
+[Goole scholar](https://scholar.google.com/citations?user=SRVSMJAAAAAJ&hl=zh-CN)
+
+### Research gate
+
+[Research gate](https://www.researchgate.net/profile/Shiqi-Liu-27)
+
+
+### 音乐和一些有趣的东西(Music and some fun things)
+
+[音乐和一些有趣的东西](http://mp.weixin.qq.com/s?__biz=MzI4NzQzNjQxNw==&mid=2247483804&idx=1&sn=31c58ddc3bf8bada7d42b3ede4e8f213&chksm=ebccfa72dcbb73647f67ca41d1aa794620955fbb2a7d789af62c4ec1f93d99d8245324f8386a#rd)
+
+
+
 ## Locations of key files/directories
 
 * Basic config options: _config.yml
@@ -54,11 +91,10 @@ Single line blockquote:
 
 ### Table 1
 
-| Entry            | Item   |                                                              |
-| --------         | ------ | ------------------------------------------------------------- |
+| Entry            | Item   |                                                |
+| --------         | ------ | ----------------------------------------- |
 | [Master of Engineering](#)    | 2018-2021   | Central China Normal University, National Engineering Research Center for E-Learning            |
-| [Doctor of Engineering](#)    | 2021-2025   | Central China Normal University, National Engineering Laboratory For Educationgal Big Data           |                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
+| [Doctor of Science](#)    | 2021-   | Central China Normal University, National Engineering Laboratory For Educationgal Big Data           |                          |
 
 ### Table 2
 
