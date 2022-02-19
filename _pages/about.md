@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+
 [中文版,](https://hellodannyliu.github.io/)  [English](https://hellodannyliu.github.io/EnglishCV/)
 
 ## 个人简介
