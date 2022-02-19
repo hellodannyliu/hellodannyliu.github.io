@@ -8,20 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-[中文版](https://hellodannyliu.github.io/) | [English](https://hellodannyliu.github.io/EnglishCV/)
+[中文版|](https://hellodannyliu.github.io/)  [English](https://hellodannyliu.github.io/EnglishCV/)
 
-## 个人简介(Personal Profile)
+## 个人简介
 我是刘石奇，湖南益阳人，目前在华中师范大学 教育大数据应用技术国家工程实验室 攻读 教育技术学理学博士学位。此前，我在华中师范大学国家数字化学习工程研究中心 获得 教育信息技术专业工学硕士学位。
 
-My name is **Shiqi Liu** and I am  pursuing my PhD in Educational Technology at the National Engineering Laboratory For Educationgal Big Data, Central China Normal University. Previously, I received my Master of Engineering degree in Educational Information Technology from the National Engineering Research Center for E-Learning, Central China Normal University.
 
 
 我的研究兴趣方向是在线学习论坛中的教育文本数据挖掘与智能对话代理，目前已经在Computers & Education，电化教育研究，CSEDU2020等国内外知名期刊和会议发表论文。
 
-My research interests are the educational text data mining and the intelligent conversational agent. I have published papers in international journals and conferences, such as Computers & Education and CSEDU2020  .
 
 
-## 主要论文(Selected Papers)
+## 主要论文
 [1] Sannyuya Liu,**Shiqi Liu**, Zhi Liu, Xian Peng, Zongkai Yang. (2022). Automated detection of emotional and cognitive engagement in MOOC discussions to predict learning achievement. *Computers & Education*, 181, 104461. (SCI&SSCI ,IF=8.358,JCR Q1) https://doi.org/10.1016/j.compedu.2022.104461 
 
 [2] 刘智, **刘石奇**, 李卿, 柴唤友, 康令云, & 刘三女牙. (2019). SPOC论坛中学习者兴趣主题建模及其与学习成效的关系研究. *电化教育研究*, 40(12), 87–96.(CSSCI，IF=6.428) https://doi.org/10.13811/j.cnki.eer.2019.12.012
@@ -29,7 +27,7 @@ My research interests are the educational text data mining and the intelligent c
 
 [3] Liu, Z., **Liu, S**., Zhang, C., Su, Z., Hu, T., & Liu, S. (2020). Investigating the Relationship between Learners’ Cognitive Participation and Learning Outcome in Asynchronous Online Discussion Forums: Proceedings of the 12th International Conference on Computer Supported Education, 26–33. （EI) https://doi.org/10/gg9mx3
 
-## 其他站点(Other sites)
+## 其他站点
 
 ### Github
 [Github](https://github.com/hellodannyliu)
