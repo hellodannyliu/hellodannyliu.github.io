@@ -12,13 +12,9 @@ redirect_from:
 [中文版,](https://hellodannyliu.github.io/)  [English](https://hellodannyliu.github.io/EnglishCV/)
 
 ## 个人简介
-我是刘石奇，湖南益阳人，目前在华中师范大学 教育大数据应用技术国家工程实验室 攻读 教育技术学理学博士学位。此前，我在华中师范大学国家数字化学习工程研究中心 获得 教育信息技术专业工学硕士学位。
+我是刘石奇，湖南益阳人，目前在华中师范大学（教育大数据应用技术国家工程实验室）攻读教育技术学理学博士学位。此前，我在华中师范大学（国家数字化学习工程研究中心）获得教育信息技术专业工学硕士学位。
 
-
-
-我的研究兴趣方向是在线学习论坛中的教育文本数据挖掘与智能对话代理，目前已经在Computers & Education，电化教育研究，CSEDU2020等国内外知名期刊和会议发表论文。
-
-
+我的研究兴趣方向是在线学习论坛中的教育文本数据挖掘与智能对话代理，目前已经在Computers & Education，电化教育研究，和CSEDU2020等国内外知名期刊和会议发表论文。
 
 ## 主要论文
 [1] Sannyuya Liu,**Shiqi Liu**, Zhi Liu, Xian Peng, Zongkai Yang. (2022). Automated detection of emotional and cognitive engagement in MOOC discussions to predict learning achievement. *Computers & Education*, 181, 104461. (SCI&SSCI ,IF=8.358,JCR Q1) https://doi.org/10.1016/j.compedu.2022.104461 
