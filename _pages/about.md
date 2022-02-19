@@ -32,7 +32,7 @@ redirect_from:
 
 ## 其他站点
 ### Github
-[Github](https://github.com/hellodannyliu
+[Github](https://github.com/hellodannyliu)
 ### 音乐和一些有趣的东西
 [音乐和一些有趣的东西](http://mp.weixin.qq.com/s?__biz=MzI4NzQzNjQxNw==&mid=2247483804&idx=1&sn=31c58ddc3bf8bada7d42b3ede4e8f213&chksm=ebccfa72dcbb73647f67ca41d1aa794620955fbb2a7d789af62c4ec1f93d99d8245324f8386a#rd)
 
