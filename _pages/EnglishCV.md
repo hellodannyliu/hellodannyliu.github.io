@@ -7,7 +7,7 @@ redirect_from:
   - /EnglishCV.html
 ---
 
-[中文版](https://hellodannyliu.github.io/) | [English](https://hellodannyliu.github.io/EnglishCV/)
+[中文版,](https://hellodannyliu.github.io/)  [English](https://hellodannyliu.github.io/EnglishCV/)
 
 ## Personal Profile
 
