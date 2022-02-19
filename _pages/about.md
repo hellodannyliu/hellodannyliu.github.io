@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-[中文版|](https://hellodannyliu.github.io/)  [English](https://hellodannyliu.github.io/EnglishCV/)
+[中文版,](https://hellodannyliu.github.io/)  [English](https://hellodannyliu.github.io/EnglishCV/)
 
 ## 个人简介
 我是刘石奇，湖南益阳人，目前在华中师范大学 教育大数据应用技术国家工程实验室 攻读 教育技术学理学博士学位。此前，我在华中师范大学国家数字化学习工程研究中心 获得 教育信息技术专业工学硕士学位。
