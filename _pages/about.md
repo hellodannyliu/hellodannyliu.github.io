@@ -28,20 +28,15 @@ redirect_from:
 
 [3] Liu, Z., **Liu, S**., Zhang, C., Su, Z., Hu, T., & Liu, S. (2020). Investigating the Relationship between Learners’ Cognitive Participation and Learning Outcome in Asynchronous Online Discussion Forums: Proceedings of the 12th International Conference on Computer Supported Education, 26–33. （EI) https://doi.org/10/gg9mx3
 
-## 其他站点
-
-### Github
-[Github](https://github.com/hellodannyliu)
-
+## All papers
 ### Goole scholar
 [Goole scholar](https://scholar.google.com/citations?user=SRVSMJAAAAAJ&hl=zh-CN)
-
 ### Research gate
-
 [Research gate](https://www.researchgate.net/profile/Shiqi-Liu-27)
 
-
-### 音乐和一些有趣的东西(Music and some fun things)
-
+## 其他站点
+### Github
+[Github](https://github.com/hellodannyliu
+### 音乐和一些有趣的东西
 [音乐和一些有趣的东西](http://mp.weixin.qq.com/s?__biz=MzI4NzQzNjQxNw==&mid=2247483804&idx=1&sn=31c58ddc3bf8bada7d42b3ede4e8f213&chksm=ebccfa72dcbb73647f67ca41d1aa794620955fbb2a7d789af62c4ec1f93d99d8245324f8386a#rd)
 
