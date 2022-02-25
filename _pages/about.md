@@ -17,11 +17,8 @@ redirect_from:
 我的兴趣方向是在线学习论坛中的教育文本数据挖掘与智能对话代理，已经在Computers & Education，电化教育研究，和CSEDU2020等国内外知名期刊和会议发表论文。
 
 ## 已发表的论文
-Goole scholar
-[Goole scholar](https://scholar.google.com/citations?user=SRVSMJAAAAAJ&hl=zh-CN)
-
-Research gate
-[Research gate](https://www.researchgate.net/profile/Shiqi-Liu-27)
+Goole scholar: [Goole scholar](https://scholar.google.com/citations?user=SRVSMJAAAAAJ&hl=zh-CN)
+Research gate: [Research gate](https://www.researchgate.net/profile/Shiqi-Liu-27)
 
 ### 期刊
 [1] Sannyuya Liu,**Shiqi Liu**, Zhi Liu, Xian Peng, Zongkai Yang. (2022). Automated detection of emotional and cognitive engagement in MOOC discussions to predict learning achievement. *Computers & Education*, 181, 104461. (SCI&SSCI, IF=8.358, JCR Q1) [Link](https://doi.org/10.1016/j.compedu.2022.104461)
@@ -43,19 +40,11 @@ Tan, S., Liu, Z., **Liu, S.**, Su, Z., Chai, H., & Liu, S. (2020). Investigating
 
 
 ## 其他站点
-Github
+Github: [Github](https://github.com/hellodannyliu)
 
-[Github](https://github.com/hellodannyliu)
+Goole scholar: [Goole scholar](https://scholar.google.com/citations?user=SRVSMJAAAAAJ&hl=zh-CN)
 
-Goole scholar
+Research gate: [Research gate](https://www.researchgate.net/profile/Shiqi-Liu-27)
 
-[Goole scholar](https://scholar.google.com/citations?user=SRVSMJAAAAAJ&hl=zh-CN)
-
-Research gate
-
-[Research gate](https://www.researchgate.net/profile/Shiqi-Liu-27)
-
-音乐和一些有趣的东西
-
-[音乐和一些有趣的东西](http://mp.weixin.qq.com/s?__biz=MzI4NzQzNjQxNw==&mid=2247483804&idx=1&sn=31c58ddc3bf8bada7d42b3ede4e8f213&chksm=ebccfa72dcbb73647f67ca41d1aa794620955fbb2a7d789af62c4ec1f93d99d8245324f8386a#rd)
+音乐和一些有趣的东西: [音乐和一些有趣的东西](http://mp.weixin.qq.com/s?__biz=MzI4NzQzNjQxNw==&mid=2247483804&idx=1&sn=31c58ddc3bf8bada7d42b3ede4e8f213&chksm=ebccfa72dcbb73647f67ca41d1aa794620955fbb2a7d789af62c4ec1f93d99d8245324f8386a#rd)
 
