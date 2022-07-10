@@ -21,7 +21,7 @@ Goole scholar: [Goole scholar](https://scholar.google.com/citations?user=SRVSMJA
 Research gate: [Research gate](https://www.researchgate.net/profile/Shiqi-Liu-27)
 
 ### 期刊
-[1] Sannyuya Liu,**Shiqi Liu**, Zhi Liu, Xian Peng, Zongkai Yang. (2022). Automated detection of emotional and cognitive engagement in MOOC discussions to predict learning achievement. *Computers & Education*, 181, 104461. (SCI&SSCI, IF=8.358, JCR Q1) [Link](https://doi.org/10.1016/j.compedu.2022.104461)
+[1] Sannyuya Liu,**Shiqi Liu**, Zhi Liu, Xian Peng, Zongkai Yang. (2022). Automated detection of emotional and cognitive engagement in MOOC discussions to predict learning achievement. *Computers & Education*, 181, 104461. (SCI&SSCI, IF=11.182, JCR Q1) [Link](https://doi.org/10.1016/j.compedu.2022.104461)
 
 [2] 刘智, **刘石奇**, 李卿, 柴唤友, 康令云, & 刘三女牙. (2019). SPOC论坛中学习者兴趣主题建模及其与学习成效的关系研究. *电化教育研究*, 40(12), 87–96.(CSSCI, IF=6.428) [Link](https://doi.org/10.13811/j.cnki.eer.2019.12.012)
 
