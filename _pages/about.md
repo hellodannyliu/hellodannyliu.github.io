@@ -39,6 +39,12 @@ Liu, Z., Zhang, N., **Liu, S.**, & Liu, S. (2021). Development Trajectory of Stu
 Tan, S., Liu, Z., **Liu, S.**, Su, Z., Chai, H., & Liu, S. (2020). Investigating the Relationship among Students’ Interest, Flow and Their Learning Outcomes in a Blended Learning Asynchronous Forum: Proceedings of the 12th International Conference on Computer Supported Education, 34–41. （EI) [Link](https://doi.org/10/gg9mx2)
 
 
+### 参与项目
+
+2020年国家自然科学基金面上项目,SPOC互动话语中认知行为模式的识别及其适应性干预方法研究(62077017)
+
+
+
 ## 其他站点
 Github: [Github](https://github.com/hellodannyliu)
 
