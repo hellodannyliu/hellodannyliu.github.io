@@ -14,7 +14,7 @@ redirect_from:
 ## 个人简介
 我是**刘石奇**，目前在华中师范大学（教育大数据应用技术国家工程实验室）攻读教育技术学理学博士学位。此前，我在华中师范大学（国家数字化学习工程研究中心）获得教育信息技术专业工学硕士学位。
 
-我的兴趣方向是在线学习论坛中的教育文本数据挖掘与智能对话代理，已经在Computers & Education，电化教育研究，和CSEDU2020等国内外知名期刊和会议发表论文。
+我的研究关注在线学习论坛中的教育文本数据挖掘与智能对话代理，已经在Computers & Education，电化教育研究，和CSEDU2020等国内外知名期刊和会议发表论文。
 
 ## 已发表的论文
 Goole scholar: [Goole scholar](https://scholar.google.com/citations?user=SRVSMJAAAAAJ&hl=zh-CN)
