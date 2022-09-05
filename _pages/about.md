@@ -38,6 +38,10 @@ Liu, Z., Zhang, N., **Liu, S.**, & Liu, S. (2021). Development Trajectory of Stu
 
 Tan, S., Liu, Z., **Liu, S.**, Su, Z., Chai, H., & Liu, S. (2020). Investigating the Relationship among Students’ Interest, Flow and Their Learning Outcomes in a Blended Learning Asynchronous Forum: Proceedings of the 12th International Conference on Computer Supported Education, 34–41. （EI) [Link](https://doi.org/10/gg9mx2)
 
+### 主持项目
+
+2022年中央高校基本科研业务费资助（优秀博士论文培育项目）
+
 
 ### 参与项目
 
