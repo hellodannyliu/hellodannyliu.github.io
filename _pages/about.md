@@ -25,6 +25,9 @@ Research gate: [Research gate](https://www.researchgate.net/profile/Shiqi-Liu-27
 
 [2] 刘智, **刘石奇**, 李卿, 柴唤友, 康令云, & 刘三女牙. (2019). SPOC论坛中学习者兴趣主题建模及其与学习成效的关系研究. *电化教育研究*, 40(12), 87–96.(CSSCI, IF=6.428) [Link](https://doi.org/10.13811/j.cnki.eer.2019.12.012)
 
+[3] Liu, Z., Kong, W., Peng, X., Yang, Z., Liu, S., **Liu, S.**, & Wen, C. (2022). Dual-feature-embeddings-based semi-supervised learning for cognitive engagement classification in online course discussions. Knowledge-Based Systems, 110053. https://doi.org/10.1016/j.knosys.2022.110053
+
+
 ### 会议
 
 Liu, Z., **Liu, S**., Zhang, C., Su, Z., Hu, T., & Liu, S. (2020). Investigating the Relationship between Learners’ Cognitive Participation and Learning Outcome in Asynchronous Online Discussion Forums: Proceedings of the 12th International Conference on Computer Supported Education, 26–33. （EI) [Link](https://doi.org/10/gg9mx3)
