@@ -50,6 +50,8 @@ Tan, S., Liu, Z., **Liu, S.**, Su, Z., Chai, H., & Liu, S. (2020). Investigating
 
 2020年国家自然科学基金面上项目,SPOC互动话语中认知行为模式的识别及其适应性干预方法研究(62077017)
 
+### 学术服务
+受邀担任计算机与教育领域的期刊审稿人，包括：IEEE Transactions on Learning Technologies 
 
 
 ## 其他站点
