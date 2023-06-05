@@ -12,7 +12,7 @@ redirect_from:
 [中文版,](https://hellodannyliu.github.io/)  [English](https://hellodannyliu.github.io/EnglishCV/)
 
 ## 个人简介
-我是**刘石奇**，目前在华中师范大学（教育大数据应用技术国家工程实验室）攻读教育技术学理学博士学位。此前，我在华中师范大学（国家数字化学习工程研究中心）获得教育信息技术专业工学硕士学位。
+我是**刘石奇**，目前在华中师范大学（教育大数据应用技术国家工程研究中心）攻读教育技术学理学博士学位。此前，我在华中师范大学（国家数字化学习工程研究中心）获得教育信息技术专业工学硕士学位。
 
 我的研究关注在线学习论坛中的教育文本数据挖掘与智能对话代理，已经在Computers & Education，电化教育研究，和CSEDU2020等国内外知名期刊和会议发表论文。
 
@@ -34,7 +34,6 @@ Liu, Z., **Liu, S**., Zhang, C., Su, Z., Hu, T., & Liu, S. (2020). Investigating
 
 Liu, Z., Kong, W., **Liu, S.**, & Kong, X. (2021). Using Semi-supervised Deep Learning for Identifying Cognitive Engagement in Online Learning Discussion. 2021 Tenth International Conference of Educational Innovation through Technology (EITT), 233–238. （EI) [Link](https://doi.org/10.1109/EITT53287.2021.00053)
 
-
 Liu, Z., Mu, R., **Liu, S.**, Peng, X., & Liu, S. (2021). Modeling Temporal Association of Cognition-Topic in MOOC Discussion to Track Learners’ Cognitive Engagement Dynamics. Proceedings of the Eighth ACM Conference on Learning @ Scale, 319–322. （EI) [Link](https://doi.org/10.1145/3430895.3460170)
 
 Liu, Z., Zhang, N., **Liu, S.**, & Liu, S. (2021). Development Trajectory of Student Cognitive Behaviors in a SPOC Forum: An Integrated Approach Combining Epistemic Network Analysis and Lag Sequential Analysis. 2021 International Symposium on Educational Technology (ISET), 26–30. （EI) [Link](https://doi.org/10.1109/ISET52350.2021.00016)
@@ -51,7 +50,8 @@ Tan, S., Liu, Z., **Liu, S.**, Su, Z., Chai, H., & Liu, S. (2020). Investigating
 2020年国家自然科学基金面上项目,SPOC互动话语中认知行为模式的识别及其适应性干预方法研究(62077017)
 
 ### 学术服务
-受邀担任计算机与教育领域的期刊审稿人，包括：IEEE Transactions on Learning Technologies 
+受邀担任计算机与教育领域的期刊审稿人：
+* IEEE Transactions on Learning Technologies 
 
 
 ## 其他站点

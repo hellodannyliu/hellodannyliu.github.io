@@ -9,7 +9,7 @@ redirect_from:
 
 [中文版,](https://hellodannyliu.github.io/)  [English](https://hellodannyliu.github.io/EnglishCV/)
 
-I am **Shiqi Liu**, and I am pursuing a Doctor of Science degree in Educational Technology at Central China Normal University (National Engineering Laboratory of Educational Big Data Application Technology). Previously, I received my Master of Engineering degree in Educational Information Technology from Huazhong Normal University (National Engineering Research Center for E-Learning).
+I am **Shiqi Liu**, and I am pursuing a Doctor of Science degree in Educational Technology at Central China Normal University (National Engineering Research Center of Educational Big Data Application Technology). Previously, I received my Master of Engineering degree in Educational Information Technology from Huazhong Normal University (National Engineering Research Center for E-Learning).
 ### Personal Profile
 
 My research focuses on educational text data mining and intelligent conversational agents in online learning forums, and has been published in national and international journals and conferences such as Computers & Education, Research in E-learning, and CSEDU2020.
@@ -42,7 +42,8 @@ Tan, S., Liu, Z., **Liu, S.**, Su, Z., Chai, H., & Liu, S. (2020). Investigating
 
 ### Professional Service
 
-Invited as a reviewer for journals in the field of computing and education, including IEEE Transactions on Learning Technologies
+Invited as a reviewer for journals in the field of computing and education:
+* IEEE Transactions on Learning Technologies
 
 ## Other sites
 
