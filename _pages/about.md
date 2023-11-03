@@ -40,7 +40,7 @@ Improving knowledge gain and emotional experience in online learning with knowle
 scaffolding-based conversational agent. Educational Technology & Society, 27(2), 197-219. (SSCI, IF=4.0, JCR Q1)
 [Link](https://doi.org/10.30191/ETS.202404_27(2).RP08)
 
-[3] Liu, S., **Liu, S.**, Liu, Z.*, Sun, J., Li, Q., & Yang, Z. (2023). AI is also reshaping education in both practice and science (eLetters). Science, 381. [Link](10.1126/science.adh2586#elettersSection)
+[3] Liu, S., **Liu, S.**, Liu, Z.*, Sun, J., Li, Q., & Yang, Z. (2023). AI is also reshaping education in both practice and science (eLetters). Science, 381. [Link](https://doi.org/10.1126/science.adh2586#elettersSection)
 
 [4] Liu Zhi, Kong Weizhen, Peng Xian*, Yang Zongkai, Liu Sannyuya, **Liu Shiqi**, & Wen Chaodong. (2022) .
 Dual-feature-embeddings-based semi-supervised learning for cognitive engagement classification in online course
