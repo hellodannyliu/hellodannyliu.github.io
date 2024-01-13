@@ -13,10 +13,12 @@ redirect_from:
 
 ## 个人简介
 **刘石奇**
-* 华中师范大学（教育大数据应用技术国家工程研究中心），教育技术学，理学博士（2021年9月-2025年6月）。
+
+## 教育经历
+* 华中师范大学（教育大数据应用技术国家工程研究中心），教育技术学，理学博士（2021年9月-2025年6月），导师：刘三女牙 教授 。
 
 * 澳大利亚蒙纳士大学（Monash University）信息技术学院，学习分析中心，联合博士培养
-（2023年10月开始）。合作导师 [Dragan Gasevic](https://research.monash.edu/en/persons/dragan-gasevic) ，中国留学基金委员会资助。
+（2023年10月开始）。导师： [prof. Dragan Gasevic](https://research.monash.edu/en/persons/dragan-gasevic) ，中国留学基金委员会资助。
 
 * 华中师范大学（国家数字化学习工程研究中心），教育信息技术专业，工学硕士学位。
 
@@ -75,7 +77,8 @@ discussions. Knowledge-Based Systems, 110053. (SCI, IF=8.8, JCR Q1) [Link](https
 
 ### 学术服务
 受邀担任计算机与教育领域的期刊审稿人：
-* IEEE Transactions on Learning Technologies 
+* IEEE Transactions on Learning Technologies
+* International Conference on Learning Analytics & Knowledge (LAK)
 * Frontiers in Artificial Intelligence
   
 ### 学术活动
